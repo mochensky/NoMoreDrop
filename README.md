@@ -1,4 +1,4 @@
-# NoMoreDrop
+# [NoMoreDrop](https://modrinth.com/project/Om99IHQH)
 
 **NoMoreDrop** turns your Minecraft survival into a minimalist masterpiece! Break any block, and *nothing* drops—no items, no clutter, just pure challenge. Can you conquer the game with no resources from blocks? **Yes, you can still beat the game!**
 
