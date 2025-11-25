@@ -6,15 +6,7 @@
 
 - **No Drops, No Problem**: Break any block (stone, dirt, ore) and get *nothing* in return, forcing creative survival strategies.
 - **Vanilla-Friendly**: Works seamlessly with vanilla Minecraft and most other mods.
-- **Lightweight & Simple**: Quick to install, no complicated setup.
 - **Server-Side**: Only the server (or the player hosting the world) needs the mod installed—ideal for multiplayer survival twists!
-
-## Installation
-
-1. Download the latest version of **NoMoreDrop**.
-2. Install **Fabric** and **[Fabric API](https://modrinth.com/project/P7dR8mSH)** (depending on your version).
-3. Drop the mod `.jar` file into your `mods` folder.
-4. Launch Minecraft!
 
 ## Why Play NoMoreDrop?
 
