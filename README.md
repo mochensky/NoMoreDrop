@@ -14,4 +14,4 @@ This mod is for players who want a brutal, resource-scarce survival experience. 
 
 ## Try This Too!
 
-Want more chaos? Check out **[RandomBreak](https://modrinth.com/project/ndpMbtrJ)**, a mod that makes every block drop a *completely random item*, turning every break into a wild surprise!
+Want more chaos? Check out **[Random Break](https://modrinth.com/project/ndpMbtrJ)**, a mod that makes every block drop a *completely random item*, turning every break into a wild surprise!
