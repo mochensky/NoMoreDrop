@@ -15,9 +15,3 @@ This mod is for players who want a brutal, resource-scarce survival experience. 
 ## Try This Too!
 
 Want more chaos? Check out **[RandomBreak](https://modrinth.com/project/ndpMbtrJ)**, a mod that makes every block drop a *completely random item*, turning every break into a wild surprise!
-
-## Compatibility
-
-- Works with Minecraft `1.17–1.21.x`!
-- Compatible with most Fabric mods.
-- No client-side installation needed for multiplayer servers.
