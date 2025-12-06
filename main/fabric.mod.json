@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "nomoredrop",
   "version": "${version}",
-  "name": "NoMoreDrop",
+  "name": "No More Drop",
   "description": "Any block mined in the game will not drop an item!",
   "authors": ["mochensky"],
   "contact": { "homepage": "https://github.com/mochensky", "issues": "https://github.com/mochensky/NoMoreDrop/issues", "sources": "https://github.com/mochensky/NoMoreDrop" },
